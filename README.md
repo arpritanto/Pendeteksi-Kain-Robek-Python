@@ -1,0 +1,2 @@
+# Pendeteksi Kain Robek Python
+ Aplikasi ini dapat mendeteksi kerusakan pada kain. Dalam artian kain yang bolong atau cacat, dengan ini seperti pabrik tekstil besar maupun kecil dapat melakukan quality control secara otomatis dengan meminimalisir human error agar suatu pabrik dapat tidak mengeluarkan produk cacat kepada konsumen. Aplikasi ini dapat menghitung jumlah robekan/bolong yang terdapat pada kain
